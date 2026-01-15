@@ -65,7 +65,7 @@ Complete a full penetration test of the Rabbit Store machine by exploiting web a
 
 For detailed step-by-step exploitation process, screenshots, and technical analysis, please refer to the complete writeup:
 
-📄 **[Rabbit_Store_TryHackMe_Writeup.pdf](./Rabbit_Store_TryHackMe_Writeup.pdf)**
+📄 **[![View Report](https://img.shields.io/badge/View-Report-blue?style=for-the-badge)](./Rabbit_Store_TryHackMe_Writeup.pdf)**
 
 The writeup includes:
 - Comprehensive reconnaissance and enumeration results
